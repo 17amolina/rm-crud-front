@@ -12,10 +12,6 @@ npm install
 # or
 yarn install
 ```
-change dir:
-```bash
-cd rm-crud-front
-```
 
 run the development server:
 
